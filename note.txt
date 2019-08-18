@@ -1,0 +1,8 @@
+first install pip to get opencv and numpy for python
+-------------> sudo apt install python-pip
+to install opencv for python do as follows
+------------->sudo apt-get install libopencv-dev python-opencv /*espicially for linux to get it from linux distros*/
+to install matplot library
+------------->sudo apt-get install python-matplotlib
+to get change a 'python' default version
+------------->alias python = python3
